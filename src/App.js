@@ -14,9 +14,11 @@ import { History } from './Pages/History';
 import { Navbar } from './Components/Navbar';
 
 
+
 function App() {
   return (
   <div>
+
 
   <Router>
     <nav>
