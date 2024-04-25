@@ -12,7 +12,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 
-### `npm run eject`
+
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
