@@ -10,26 +10,26 @@ const Price = [
         id: 2,
         teaName: "White tea",
         image: "tea2",
-        price: 5,
+        price: 7,
         category: "WHITE"
     },
     {
         id: 3,
         teaName: "Black tea",
         image: "tea3",
-        price: 5,
+        price: 4,
         category: "BLACK"
     },
     {
         id: 4,
         teaName: "Oolong tea",
         image: "tea1",
-        price: 5,
+        price: 6,
         category: "OOLONG"
     },
     {
         id: 5,
-        teaName: "Herbal tea",
+        teaName: "Peppermint tea",
         image: "tea4",
         price: 5,
         category: "HERBAL"
@@ -64,7 +64,7 @@ const Price = [
     },
     {
         id: 10,
-        teaName: "Herbal tea",
+        teaName: "Chamomile tea",
         image: "tea4",
         price: 5,
         category: "HERBAL"
