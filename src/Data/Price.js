@@ -8,100 +8,135 @@ const Price = [
     },
     {
         id: 2,
-        teaName: "Green tea",
-        image: "tea1",
+        teaName: "White tea",
+        image: "tea2",
         price: 5,
-        category: "GREEN"
+        category: "WHITE"
     },
     {
         id: 3,
-        teaName: "Green tea",
-        image: "tea1",
+        teaName: "Black tea",
+        image: "tea3",
         price: 5,
-        category: "GREEN"
+        category: "BLACK"
     },
     {
         id: 4,
-        teaName: "Green tea",
+        teaName: "Oolong tea",
         image: "tea1",
         price: 5,
-        category: "GREEN"
+        category: "OOLONG"
     },
     {
         id: 5,
+        teaName: "Herbal tea",
+        image: "tea4",
+        price: 5,
+        category: "HERBAL"
+    },
+    {
+        id: 1,
         teaName: "Green tea",
         image: "tea1",
         price: 5,
         category: "GREEN"
     },
     {
-        id: 6,
+        id: 2,
+        teaName: "White tea",
+        image: "tea2",
+        price: 5,
+        category: "WHITE"
+    },
+    {
+        id: 3,
+        teaName: "Black tea",
+        image: "tea3",
+        price: 5,
+        category: "BLACK"
+    },
+    {
+        id: 4,
+        teaName: "Oolong tea",
+        image: "tea1",
+        price: 5,
+        category: "OOLONG"
+    },
+    {
+        id: 5,
+        teaName: "Herbal tea",
+        image: "tea4",
+        price: 5,
+        category: "HERBAL"
+    },
+    {
+        id: 1,
         teaName: "Green tea",
         image: "tea1",
         price: 5,
         category: "GREEN"
     },
     {
-        id: 7,
+        id: 2,
+        teaName: "White tea",
+        image: "tea2",
+        price: 5,
+        category: "WHITE"
+    },
+    {
+        id: 3,
+        teaName: "Black tea",
+        image: "tea3",
+        price: 5,
+        category: "BLACK"
+    },
+    {
+        id: 4,
+        teaName: "Oolong tea",
+        image: "tea1",
+        price: 5,
+        category: "OOLONG"
+    },
+    {
+        id: 5,
+        teaName: "Herbal tea",
+        image: "tea4",
+        price: 5,
+        category: "HERBAL"
+    },
+    {
+        id: 1,
         teaName: "Green tea",
         image: "tea1",
         price: 5,
         category: "GREEN"
     },
     {
-        id: 8,
-        teaName: "Green tea",
-        image: "tea1",
+        id: 2,
+        teaName: "White tea",
+        image: "tea2",
         price: 5,
-        category: "GREEN"
+        category: "WHITE"
     },
     {
-        id: 9,
-        teaName: "Green tea",
-        image: "tea1",
+        id: 3,
+        teaName: "Black tea",
+        image: "tea3",
         price: 5,
-        category: "GREEN"
+        category: "BLACK"
     },
     {
-        id: 10,
-        teaName: "Green tea",
+        id: 4,
+        teaName: "Oolong tea",
         image: "tea1",
         price: 5,
-        category: "GREEN"
+        category: "OOLONG"
     },
     {
-        id: 11,
-        teaName: "Green tea",
-        image: "tea1",
+        id: 5,
+        teaName: "Herbal tea",
+        image: "tea4",
         price: 5,
-        category: "GREEN"
-    },
-    {
-        id: 12,
-        teaName: "Green tea",
-        image: "tea1",
-        price: 5,
-        category: "GREEN"
-    },
-    {
-        id: 13,
-        teaName: "Green tea",
-        image: "tea1",
-        price: 5,
-        category: "GREEN"
-    },
-    {
-        id: 14,
-        teaName: "Green tea",
-        image: "tea1",
-        price: 5,
-        category: "GREEN"
-    },
-    {
-        id: 15,
-        teaName: "Green tea",
-        image: "tea1",
-        price: 5,
-        category: "GREEN"
+        category: "HERBAL"
     },
 ]
