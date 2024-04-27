@@ -35,105 +35,105 @@ const Price = [
         category: "HERBAL"
     },
     {
-        id: 1,
+        id: 6,
         teaName: "Green tea",
         image: "tea1",
         price: 5,
         category: "GREEN"
     },
     {
-        id: 2,
+        id: 7,
         teaName: "White tea",
         image: "tea2",
         price: 5,
         category: "WHITE"
     },
     {
-        id: 3,
+        id: 8,
         teaName: "Black tea",
         image: "tea3",
         price: 5,
         category: "BLACK"
     },
     {
-        id: 4,
+        id: 9,
         teaName: "Oolong tea",
         image: "tea1",
         price: 5,
         category: "OOLONG"
     },
     {
-        id: 5,
+        id: 10,
         teaName: "Herbal tea",
         image: "tea4",
         price: 5,
         category: "HERBAL"
     },
     {
-        id: 1,
+        id: 11,
         teaName: "Green tea",
         image: "tea1",
         price: 5,
         category: "GREEN"
     },
     {
-        id: 2,
+        id: 12,
         teaName: "White tea",
         image: "tea2",
         price: 5,
         category: "WHITE"
     },
     {
-        id: 3,
+        id: 13,
         teaName: "Black tea",
         image: "tea3",
         price: 5,
         category: "BLACK"
     },
     {
-        id: 4,
+        id: 14,
         teaName: "Oolong tea",
         image: "tea1",
         price: 5,
         category: "OOLONG"
     },
     {
-        id: 5,
+        id: 15,
         teaName: "Herbal tea",
         image: "tea4",
         price: 5,
         category: "HERBAL"
     },
     {
-        id: 1,
+        id: 16,
         teaName: "Green tea",
         image: "tea1",
         price: 5,
         category: "GREEN"
     },
     {
-        id: 2,
+        id: 17,
         teaName: "White tea",
         image: "tea2",
         price: 5,
         category: "WHITE"
     },
     {
-        id: 3,
+        id: 18,
         teaName: "Black tea",
         image: "tea3",
         price: 5,
         category: "BLACK"
     },
     {
-        id: 4,
+        id: 19,
         teaName: "Oolong tea",
         image: "tea1",
         price: 5,
         category: "OOLONG"
     },
     {
-        id: 5,
+        id: 20,
         teaName: "Herbal tea",
         image: "tea4",
         price: 5,
