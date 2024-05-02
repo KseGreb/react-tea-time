@@ -1,4 +1,4 @@
-const Price = [
+export const dataSecectionOfTeas = [
     {
         id: 1,
         teaName: "Green tea (Sri Lanka)",
