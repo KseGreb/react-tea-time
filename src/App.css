@@ -48,3 +48,13 @@ video {
   width: 1000px;
   background-color: red;
 }
+
+
+.mainSelection{
+  display: flex;
+  flex-direction: column;
+}
+.selection{
+  display: flex;
+  justify-content: space-around;
+}
