@@ -2,8 +2,8 @@ import React, { useState } from 'react';
 // import './App.css';
 import {
   BrowserRouter as Router,
-  Routes,
-  Route, 
+//   Routes,
+//   Route, 
   Link
 } from "react-router-dom";
 
@@ -19,6 +19,7 @@ export function Navbar(){
                     <Link to = "/history">History</Link>
                     <Link to = "/types">Types</Link>
                     <Link to = "/benefits">Benefits</Link>
+                    <Link to = "/onlineStore">Online Store</Link>
                 
             </nav>
         </div>

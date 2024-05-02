@@ -3,6 +3,7 @@ import HealthBenefits from "../Data/HealthBenefits";
 import TypesOfTea from "../Data/TypesOfTea";
 import { useState } from "react";
 
+
 export function Benefits(){
 
     // const filteredTea = (search) => {
@@ -20,6 +21,7 @@ export function Benefits(){
 
     return(
         <div>
+
                        Health benefits 
 
             <p>What Are The Health Benefits of Tea? People all over the world have been drinking tea for thousands of centuries, and for good reason. Numerous studies have shown that a variety of teas may boost your immune system, fight off inflammation, and even ward off cancer and heart disease. While some brews provide more health advantages than others, there’s plenty of evidence that regularly drinking tea can have a lasting impact on your wellness. Put the kettle on, because we’re sharing some of the biggest benefits hidden in the world’s most popular teas.</p>
