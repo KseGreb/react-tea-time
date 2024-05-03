@@ -58,3 +58,16 @@ video {
   display: flex;
   justify-content: space-around;
 }
+
+.teaContainer{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin: 5px;
+  padding: 20px;
+  border: 1px solid black;
+}
+.allTeaForSale{
+  display: flex;
+  flex-direction: column;
+}
