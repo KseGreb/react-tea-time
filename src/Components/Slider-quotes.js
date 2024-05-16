@@ -35,7 +35,6 @@ export function SliderQuotes(){
             </div>
             {/* <div className="buttonContainer"> */}
                 
-
                 <button onClick={nextQuote}>Next</button>
             {/* </div> */}
         </div>
