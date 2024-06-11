@@ -1,5 +1,5 @@
 export const Cart = () => {
     return(<div>
-        Cart
+        <img src="https://img.icons8.com/?size=100&id=BBhHIwJINbBl&format=png&color=000000"/>
     </div>)
 }

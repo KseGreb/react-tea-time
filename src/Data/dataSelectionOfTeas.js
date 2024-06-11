@@ -1,4 +1,4 @@
-export const dataSecectionOfTeas = [
+export const dataSelectionOfTeas = [
     {
         id: 1,
         teaName: "Green tea (Sri Lanka)",
