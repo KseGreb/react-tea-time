@@ -1,0 +1,9 @@
+.categoryButtonSelected{
+    background-color: yellow;
+}
+.categoryButtonNotSelected:hover{
+    background-color: yellow;
+}
+.categoryButton{
+    background-color: green;
+}
