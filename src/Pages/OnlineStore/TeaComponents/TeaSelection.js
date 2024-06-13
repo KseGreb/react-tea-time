@@ -15,8 +15,6 @@ export const TeaSelection = ({tea}) => {
             <p>${tea.price}</p>
             <ChangeQuantity quantity={quantity} setQuantity={setQuantity}/>
             <button onClick={()=> {dispatch(addItemToCart({tea, quantity}))}}>Add to cart</button>
-
-            
         </div>
     </div>)
 }
