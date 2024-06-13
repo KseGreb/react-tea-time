@@ -6,7 +6,7 @@ export const teaSlice = createSlice({
     selectedCategory: "GREEN"
   },
   reducers: {
-    filerCategory: (state, action) => {
+    filterCategory: (state, action) => {
         state.selectedCategory = action.payload;
     }
   }
