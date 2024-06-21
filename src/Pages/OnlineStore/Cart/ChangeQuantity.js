@@ -1,11 +1,11 @@
 export const ChangeQuantity = ({quantity, setQuantity}) => {
 
     const addQuantity = () =>{
-        const newQuantity = quantity +1;
+        const newQuantity = quantity +100;
         setQuantity(newQuantity);
     }
     const removeQuantity = () => {
-        const newQuantity = quantity -1;
+        const newQuantity = quantity -100;
         if(quantity <= 1) return quantity;
         setQuantity(newQuantity)
     }

@@ -5,14 +5,14 @@ import { useDispatch } from "react-redux";
 
 export const TeaSelection = ({tea}) => {
 
-    const [quantity, setQuantity] = useState(1);
+    const [quantity, setQuantity] = useState(100);
     const dispatch = useDispatch();
 
     return(<div className="teaContainer">
         <div className="allTeaForSale">
             <img src={`./${tea.image}.jpg`} alt="tea" width="350px" height="420px"/>
             <h2>{tea.teaName}</h2>
-            <p>${tea.price}</p>
+            <p>${tea.price} / 100 gramms</p>
             <ChangeQuantity quantity={quantity} setQuantity={setQuantity}/>
             <button onClick={()=> {dispatch(addItemToCart({tea, quantity}))}}>Add to cart</button>
         </div>
